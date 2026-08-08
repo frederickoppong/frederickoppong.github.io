@@ -31,6 +31,13 @@ Here is a look at some of the recent media outlets featuring our research on chi
 <p><img src="/images/Img2.png" alt="CBC News Coverage" style="max-width: 100%; border: 1px solid #ccc; border-radius: 4px; margin-top: 10px;" /></p>
 
 
+<h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 30px;">
+  <a href="https://brocku.ca/brock-news/2026/03/niagara-children-share-realities-of-homelessness-through-brock-research/" target="_blank" style="color: #00897b; text-decoration: none;">Brock News (March 2026)</a>
+</h3>
+<p><em>Niagara children share realities of homelessness through Brock research</em></p>
+<p><img src="/images/Img3.png" alt="Brock News Coverage" style="max-width: 100%; border: 1px solid #ccc; border-radius: 4px; margin-top: 10px;" /></p>
+
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
