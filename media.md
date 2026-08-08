@@ -52,14 +52,14 @@ author_profile: true
     font-weight: 800 !important;
   }
 
+  /* Default Laptop/Desktop View: Horizontal Scrolling */
   .media-scroll-container {
     display: flex;
     overflow-x: auto;
     gap: 20px;
     padding-bottom: 15px;
     margin-top: 20px;
-    width: 100vw;
-    max-width: calc(100vw - 320px);
+    width: 100%;
     box-sizing: border-box;
     scroll-snap-type: x mandatory;
   }
@@ -72,6 +72,22 @@ author_profile: true
     border-radius: 8px;
     padding: 15px;
     scroll-snap-align: start;
+  }
+
+  /* Mobile Phone View (Screens under 768px wide): Stack Vertically */
+  @media screen and (max-width: 768px) {
+    .media-scroll-container {
+      display: flex;
+      flex-direction: column;
+      overflow-x: visible;
+      width: 100%;
+    }
+    .media-card {
+      width: 100%;
+      min-width: 100%;
+      box-sizing: border-box;
+      margin-bottom: 20px;
+    }
   }
 </style>
 
