@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h2 style="color: #1a2b4c;">WELCOME TO MY ACADEMIC PORTFOLIO</h2>
+
 ---
 
 About
