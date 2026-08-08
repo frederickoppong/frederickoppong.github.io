@@ -22,7 +22,7 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
   <!-- Item 1: St. Catharines Standard -->
   <div class="media-card">
     <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
-      <a href="https://www.stcatharinesstandard.ca/news/niagara-region/niagara-brock-unversity-research-child-homelessness/article_00044ee4-64fb-5c0f-ba96-092ad5be3273.html" target="_blank" style="color: #00897b; text-decoration: none;">St. Catharines Standard (April 2026)</a>
+      <a href="https://www.stcatharinesstandard.ca/news/niagara-region/niagara-brock-unversity-research-child-homelessness/article_00044ee4-64fb-5c0f-ba96-092ad5be3273.html" target="_blank" style="color: #00897b; text-decoration: none;">St. Catharines Standard</a>
     </h3>
     <p style="font-size: 0.9em;"><em>“Why would I tell anyone where we live?” New research explores lives of Niagara’s unhoused children</em></p>
     <p><img src="/images/Img1png.png" alt="St. Catharines Standard Coverage" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" /></p>
@@ -40,7 +40,7 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
   <!-- Item 3: Brock News -->
   <div class="media-card">
     <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
-      <a href="https://brocku.ca/brock-news/2026/03/niagara-children-share-realities-of-homelessness-through-brock-research/" target="_blank" style="color: #00897b; text-decoration: none;">Brock News (March 2026)</a>
+      <a href="https://brocku.ca/brock-news/2026/03/niagara-children-share-realities-of-homelessness-through-brock-research/" target="_blank" style="color: #00897b; text-decoration: none;">Brock News</a>
     </h3>
     <p style="font-size: 0.9em;"><em>Niagara children share realities of homelessness through Brock research</em></p>
     <p><img src="/images/Img3.png" alt="Brock News Coverage" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" /></p>
@@ -49,7 +49,7 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
   <!-- Item 4: Niagara At Large -->
   <div class="media-card">
     <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
-      <a href="https://niagaraatlarge.com/2026/04/01/niagara-children-share-realities-of-homelessness-through-brock-research/" target="_blank" style="color: #00897b; text-decoration: none;">Niagara At Large (April 2026)</a>
+      <a href="https://niagaraatlarge.com/2026/04/01/niagara-children-share-realities-of-homelessness-through-brock-research/" target="_blank" style="color: #00897b; text-decoration: none;">Niagara At Large</a>
     </h3>
     <p style="font-size: 0.9em;"><em>Niagara children share realities of homelessness through Brock research</em></p>
     <p><img src="/images/Img4.png" alt="Niagara At Large Coverage" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" /></p>
