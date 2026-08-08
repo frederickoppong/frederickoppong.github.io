@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h1 style="color: #1a237e; font-weight: 800; letter-spacing: 0.5px;">WELCOME TO MY ACADEMIC PORTFOLIO</h1>
-<p><img src="/images/Img5.png" alt="Portfolio Image" style="max-width: 250px; border-radius: 8px; border: 1px solid #dcd6cd; margin-top: 15px; margin-bottom: 20px;" /></p>
+<p><img src="/images/Img5.PNG" alt="Portfolio Image" style="max-width: 250px; border-radius: 8px; border: 1px solid #dcd6cd; margin-top: 15px; margin-bottom: 20px;" /></p>
 
 <h3 style="color: #d84315; border-bottom: 2px solid #d84315; padding-bottom: 4px;">About</h3>
 
