@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<h1 style="color: #9c27b0; font-weight: 800; letter-spacing: 0.5px;">WELCOME TO MY ACADEMIC PORTFOLIO</h1>
+<h1 style="color: #1a237e; font-weight: 800; letter-spacing: 0.5px;">WELCOME TO MY ACADEMIC PORTFOLIO</h1>
 
-<h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px;">About</h3>
+<h3 style="color: #d84315; border-bottom: 2px solid #d84315; padding-bottom: 4px;">About</h3>
 
 Frederick Oppong is PhD candidate and multidisciplinary researcher studying how public policies, government practices, and social intersectionality shape the lives of children and youth, particularly regarding homelessness. His work focuses on childhood and migration studies, digital equity, outdoor play, and advancing Sustainable Development Goal 11: Sustainable Cities and Communities. He holds a Master’s degree in Sustainability Studies and a Bachelor of Science in Accounting. Outside of his academic and research work, he enjoys playing soccer, watching anime, and visiting museums.
 
-<h2 style="color: #9c27b0; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 40px; font-size: 1.75rem;">Featured Media & Press Coverage</h2>
+<h2 style="color: #1a237e; border-bottom: 2px solid #d84315; padding-bottom: 4px; margin-top: 40px; font-size: 1.75rem;">Featured Media & Press Coverage</h2>
 
 <p>Here is a look at some of the recent media outlets featuring my collaborative research on child homelessness and shelter living:</p>
 
@@ -21,8 +21,8 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
 
   <!-- Item 1: St. Catharines Standard -->
   <div class="media-card">
-    <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
-      <a href="https://www.stcatharinesstandard.ca/news/niagara-region/niagara-brock-unversity-research-child-homelessness/article_00044ee4-64fb-5c0f-ba96-092ad5be3273.html" target="_blank" style="color: #00897b; text-decoration: none;">St. Catharines Standard</a>
+    <h3 style="color: #d84315; border-bottom: 2px solid #d84315; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
+      <a href="https://www.stcatharinesstandard.ca/news/niagara-region/niagara-brock-unversity-research-child-homelessness/article_00044ee4-64fb-5c0f-ba96-092ad5be3273.html" target="_blank" style="color: #d84315; text-decoration: none;">St. Catharines Standard (April 2026)</a>
     </h3>
     <p style="font-size: 0.9em;"><em>“Why would I tell anyone where we live?” New research explores lives of Niagara’s unhoused children</em></p>
     <p><img src="/images/Img1png.png" alt="St. Catharines Standard Coverage" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" /></p>
@@ -30,8 +30,8 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
 
   <!-- Item 2: CBC News -->
   <div class="media-card">
-    <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
-      <a href="https://www.cbc.ca/news/canada/hamilton/niagara-children-homelessness-shelter-living-9.7150441" target="_blank" style="color: #00897b; text-decoration: none;">CBC News</a>
+    <h3 style="color: #d84315; border-bottom: 2px solid #d84315; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
+      <a href="https://www.cbc.ca/news/canada/hamilton/niagara-children-homelessness-shelter-living-9.7150441" target="_blank" style="color: #d84315; text-decoration: none;">CBC News</a>
     </h3>
     <p style="font-size: 0.9em;"><em>New research explores lives of Niagara's unhoused children and shelter living</em></p>
     <p><img src="/images/Img2.png" alt="CBC News Coverage" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" /></p>
@@ -39,8 +39,8 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
 
   <!-- Item 3: Brock News -->
   <div class="media-card">
-    <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
-      <a href="https://brocku.ca/brock-news/2026/03/niagara-children-share-realities-of-homelessness-through-brock-research/" target="_blank" style="color: #00897b; text-decoration: none;">Brock News</a>
+    <h3 style="color: #d84315; border-bottom: 2px solid #d84315; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
+      <a href="https://brocku.ca/brock-news/2026/03/niagara-children-share-realities-of-homelessness-through-brock-research/" target="_blank" style="color: #d84315; text-decoration: none;">Brock News (March 2026)</a>
     </h3>
     <p style="font-size: 0.9em;"><em>Niagara children share realities of homelessness through Brock research</em></p>
     <p><img src="/images/Img3.png" alt="Brock News Coverage" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" /></p>
@@ -48,8 +48,8 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
 
   <!-- Item 4: Niagara At Large -->
   <div class="media-card">
-    <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
-      <a href="https://niagaraatlarge.com/2026/04/01/niagara-children-share-realities-of-homelessness-through-brock-research/" target="_blank" style="color: #00897b; text-decoration: none;">Niagara At Large</a>
+    <h3 style="color: #d84315; border-bottom: 2px solid #d84315; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
+      <a href="https://niagaraatlarge.com/2026/04/01/niagara-children-share-realities-of-homelessness-through-brock-research/" target="_blank" style="color: #d84315; text-decoration: none;">Niagara At Large (April 2026)</a>
     </h3>
     <p style="font-size: 0.9em;"><em>Niagara children share realities of homelessness through Brock research</em></p>
     <p><img src="/images/Img4.png" alt="Niagara At Large Coverage" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" /></p>
@@ -58,7 +58,7 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
 </div>
 
 <style>
-  /* Forces the media container to break out and fill the full available text row width */
+  /* Horizontal scroll styling with full-width alignment */
   .media-scroll-container {
     display: flex;
     overflow-x: auto;
@@ -81,16 +81,15 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
     scroll-snap-align: start;
   }
   
-  /* Footer styles */
+  /* Changes the entire footer background to charcoal and text to light grey */
   .page__footer {
     background-color: #2b2b2b !important;
     color: #e0e0e0 !important;
   }
   .page__footer a {
-    color: #80cbc4 !important;
+    color: #ffab91 !important;
   }
 </style>
-
 
 
 For more info
