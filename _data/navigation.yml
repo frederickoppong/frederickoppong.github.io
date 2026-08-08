@@ -9,7 +9,7 @@
 
 main:
   - title: "Media Coverage"
-    url: /_posts/
+    url: /posts/2026/04/media-coverag/
   - title: "Publications"
     url: /publications/
   - title: "Talks"
