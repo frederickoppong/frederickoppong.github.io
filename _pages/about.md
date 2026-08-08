@@ -49,14 +49,15 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
 </div>
 
 <style>
-  /* Horizontal scroll styling with full-width alignment */
+  /* Forces the media container to break out and fill the full available text row width */
   .media-scroll-container {
     display: flex;
     overflow-x: auto;
     gap: 20px;
     padding-bottom: 15px;
     margin-top: 20px;
-    width: 100%;
+    width: 100vw;
+    max-width: calc(100vw - 320px);
     box-sizing: border-box;
     scroll-snap-type: x mandatory;
   }
@@ -71,7 +72,7 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
     scroll-snap-align: start;
   }
   
-  /* Changes the entire footer background to charcoal and text to light grey */
+  /* Footer styles */
   .page__footer {
     background-color: #2b2b2b !important;
     color: #e0e0e0 !important;
@@ -80,7 +81,6 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
     color: #80cbc4 !important;
   }
 </style>
-
 
 
 
