@@ -15,57 +15,72 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
 
 <h2 style="color: #9c27b0; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 40px; font-size: 1.75rem;">Featured Media & Press Coverage</h2>
 
-Here is a look at some of the recent media outlets featuring our research on child homelessness and shelter living:
+<p>Here is a look at some of the recent media outlets featuring my collaborative research on child homelessness and shelter living:</p>
 
-<h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 30px;">
-  <a href="https://www.stcatharinesstandard.ca/news/niagara-region/niagara-brock-unversity-research-child-homelessness/article_00044ee4-64fb-5c0f-ba96-092ad5be3273.html" target="_blank" style="color: #00897b; text-decoration: none;">St. Catharines Standard (April 2026)</a>
-</h3>
-<p><em>“Why would I tell anyone where we live?” New research explores lives of Niagara’s unhoused children</em></p>
-<p><img src="/images/Img1png.png" alt="St. Catharines Standard Coverage" style="max-width: 100%; border: 1px solid #ccc; border-radius: 4px; margin-top: 10px;" /></p>
+<div class="media-scroll-container">
+
+  <!-- Item 1: St. Catharines Standard -->
+  <div class="media-card">
+    <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
+      <a href="https://www.stcatharinesstandard.ca/news/niagara-region/niagara-brock-unversity-research-child-homelessness/article_00044ee4-64fb-5c0f-ba96-092ad5be3273.html" target="_blank" style="color: #00897b; text-decoration: none;">St. Catharines Standard (April 2026)</a>
+    </h3>
+    <p style="font-size: 0.9em;"><em>“Why would I tell anyone where we live?” New research explores lives of Niagara’s unhoused children</em></p>
+    <p><img src="/images/Img1png.png" alt="St. Catharines Standard Coverage" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" /></p>
+  </div>
+
+  <!-- Item 2: CBC News -->
+  <div class="media-card">
+    <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
+      <a href="https://www.cbc.ca/news/canada/hamilton/niagara-children-homelessness-shelter-living-9.7150441" target="_blank" style="color: #00897b; text-decoration: none;">CBC News</a>
+    </h3>
+    <p style="font-size: 0.9em;"><em>New research explores lives of Niagara's unhoused children and shelter living</em></p>
+    <p><img src="/images/Img2.png" alt="CBC News Coverage" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" /></p>
+  </div>
+
+  <!-- Item 3: Brock News -->
+  <div class="media-card">
+    <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
+      <a href="https://brocku.ca/brock-news/2026/03/niagara-children-share-realities-of-homelessness-through-brock-research/" target="_blank" style="color: #00897b; text-decoration: none;">Brock News (March 2026)</a>
+    </h3>
+    <p style="font-size: 0.9em;"><em>Niagara children share realities of homelessness through Brock research</em></p>
+    <p><img src="/images/Img3.png" alt="Brock News Coverage" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" /></p>
+  </div>
+
+</div>
+
+<style>
+  /* Horizontal scroll styling for media gallery */
+  .media-scroll-container {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    scroll-snap-type: x mandatory;
+  }
+  .media-card {
+    min-width: 320px;
+    max-width: 350px;
+    flex: 0 0 auto;
+    background: rgba(255, 255, 255, 0.4);
+    border: 1px solid #dcd6cd;
+    border-radius: 8px;
+    padding: 15px;
+    scroll-snap-align: start;
+  }
+  
+  /* Changes the entire footer background to charcoal and text to light grey */
+  .page__footer {
+    background-color: #2b2b2b !important;
+    color: #e0e0e0 !important;
+  }
+  .page__footer a {
+    color: #80cbc4 !important;
+  }
+</style>
 
 
- <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 30px;">
-  <a href="https://www.cbc.ca/news/canada/hamilton/niagara-children-homelessness-shelter-living-9.7150441" target="_blank" style="color: #00897b; text-decoration: none;">CBC News</a>
-</h3>
-<p><em>New research explores lives of Niagara's unhoused children and shelter living</em></p>
-<p><img src="/images/Img2.png" alt="CBC News Coverage" style="max-width: 100%; border: 1px solid #ccc; border-radius: 4px; margin-top: 10px;" /></p>
 
-
-<h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 30px;">
-  <a href="https://brocku.ca/brock-news/2026/03/niagara-children-share-realities-of-homelessness-through-brock-research/" target="_blank" style="color: #00897b; text-decoration: none;">Brock News (March 2026)</a>
-</h3>
-<p><em>Niagara children share realities of homelessness through Brock research</em></p>
-<p><img src="/images/Img3.png" alt="Brock News Coverage" style="max-width: 100%; border: 1px solid #ccc; border-radius: 4px; margin-top: 10px;" /></p>
-
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
