@@ -5,6 +5,11 @@ permalink: /media/
 author_profile: true
 ---
 
+<p style="font-style: italic; color: #555; margin-bottom: 20px;">Click any media heading below to read the full article.</p>
+
+<div class="media-scroll-container">
+  ...
+
 <div class="media-scroll-container">
 
   <!-- Item 1: St. Catharines Standard -->
