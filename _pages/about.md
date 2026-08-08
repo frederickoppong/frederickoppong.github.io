@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "WELCOME TO MY ACADEMIC PORTFOLIO"
+title: "Welcome to My Academic Portfolio"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
----
+<h2 style="color: #1a2b4c;">WELCOME TO MY ACADEMIC PORTFOLIO</h2>
 
-About
+<h3 style="color: #335588;">About</h3>
 ======
 Frederick Oppong is PhD candidate and multidisciplinary researcher studying how public policies, government practices, and social intersectionality shape the lives of children and youth, particularly regarding homelessness. His work focuses on childhood and migration studies, digital equity, outdoor play, and advancing Sustainable Development Goal 11: Sustainable Cities and Communities. He holds a Master’s degree in Sustainability Studies and a Bachelor of Science in Accounting. Outside of his academic and research work, he enjoys playing soccer, watching anime, and visiting museums.
 
