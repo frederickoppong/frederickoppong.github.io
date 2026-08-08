@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WELCOME TO MY ACADEMIC PORTFOLIO"
+title: "h2 style="color: #1a2b4c;">WELCOME TO MY ACADEMIC PORTFOLIO</h2>"
 author_profile: true
 redirect_from: 
   - /about/
