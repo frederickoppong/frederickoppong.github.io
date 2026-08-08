@@ -7,9 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-<h1 style="color: #1a237e; font-weight: 800; letter-spacing: 0.5px;">WELCOME TO MY ACADEMIC PORTFOLIO</h1>
+<div class="hero-banner">
+  <div class="hero-content">
+    <h1 style="color: #1a237e; font-size: 2.5rem; font-weight: 800; margin: 0;">Frederick Oppong, PhD(c), MA, BSc</h1>
+    <p style="color: #d84315; font-weight: bold; letter-spacing: 1px; margin-top: 5px;">RESEARCHER | ADVOCATE | CHANGE MAKER</p>
+    <p style="color: #333; max-width: 500px; font-size: 0.95rem;">Advancing equity and well-being for children and families through research, program evaluation, and social innovation.</p>
+  </div>
+</div>
 
-<p><img src="/images/Img5.PNG" alt="Portfolio Image" style="max-width: 250px; border-radius: 8px; border: 1px solid #dcd6cd; margin-top: 15px; margin-bottom: 20px;" /></p>
+<style>
+  .hero-banner {
+    background-image: url('/images/Img5.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+    padding: 40px 30px;
+    margin-bottom: 30px;
+    border: 1px solid #dcd6cd;
+  }
+  .hero-content {
+    background: rgba(255, 255, 255, 0.85);
+    padding: 20px;
+    border-radius: 6px;
+    display: inline-block;
+  }
+</style>
+<h1 style="color: #1a237e; font-weight: 800; letter-spacing: 0.5px;">WELCOME TO MY ACADEMIC PORTFOLIO</h1>
 
 <h3 style="color: #d84315; border-bottom: 2px solid #d84315; padding-bottom: 4px;">About</h3>
 
