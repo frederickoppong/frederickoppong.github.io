@@ -21,7 +21,7 @@ Here is a look at some of the recent media outlets featuring our research on chi
   <a href="https://www.stcatharinesstandard.ca/https://www.stcatharinesstandard.ca/news/niagara-region/niagara-brock-unversity-research-child-homelessness/article_00044ee4-64fb-5c0f-ba96-092ad5be3273.html)" target="_blank" style="color: #00897b; text-decoration: none;">St. Catharines Standard (April 2026)</a>
 </h3>
 <p><em>“Why would I tell anyone where we live?” New research explores lives of Niagara’s unhoused children</em></p>
-<p><a href="https://www.stcatharinesstandard.ca" target="_blank"><img src="IMG.png" alt="St. Catharines Standard Coverage" style="max-width: 100%; border: 1px solid #ccc; border-radius: 4px; margin-top: 10px;" /></a></p>
+<p><a href="https://www.stcatharinesstandard.ca/news/niagara-region/niagara-brock-unversity-research-child-homelessness/article_00044ee4-64fb-5c0f-ba96-092ad5be3273.html" target="_blank"><img src="/images/IMG.png" alt="St. Catharines Standard Coverage" style="max-width: 100%; border: 1px solid #ccc; border-radius: 4px; margin-top: 10px;" /></a></p>
 
 
  
