@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+---
 About
 ======
 Frederick Oppong is PhD candidate and multidisciplinary researcher studying how public policies, government practices, and social intersectionality shape the lives of children and youth, particularly regarding homelessness. His work focuses on childhood and migration studies, digital equity, outdoor play, and advancing Sustainable Development Goal 11: Sustainable Cities and Communities
