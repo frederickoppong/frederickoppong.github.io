@@ -10,19 +10,14 @@
 main:
  - title: "Media Coverage"
     url: /year-archive/
-    
   - title: "Publications"
     url: /publications/
-
   - title: "Talks"
     url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
-    
   - title: "Portfolio"
-    url: /portfolio/
-    
+    url: /portfolio/ 
   - title: "CV"
     url: /cv/
     
