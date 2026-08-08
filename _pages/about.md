@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to My Academic Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to My Academic Portfolio
+ABOUT
 ======
- 
+Frederick Oppong is PhD candidate and multidisciplinary researcher studying how public policies, government practices, and social intersectionality shape the lives of children and youth, particularly regarding homelessness. His work focuses on childhood and migration studies, digital equity, outdoor play, and advancing Sustainable Development Goal 11: Sustainable Cities and Communities
 
 Featured Media & Press Coverage
 ======
