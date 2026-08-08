@@ -17,7 +17,7 @@ redirect_from:
 
 <style>
   .hero-banner {
-    background-image: url('/images/Img5.png');
+    background-image: url('/images/Img5.PNG');
     background-size: cover;
     background-position: center;
     border-radius: 8px;
