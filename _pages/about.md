@@ -46,6 +46,15 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
     <p><img src="/images/Img3.png" alt="Brock News Coverage" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" /></p>
   </div>
 
+  <!-- Item 4: Niagara At Large -->
+  <div class="media-card">
+    <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 0; font-size: 1.2rem;">
+      <a href="https://niagaraatlarge.com/2026/04/01/niagara-children-share-realities-of-homelessness-through-brock-research/" target="_blank" style="color: #00897b; text-decoration: none;">Niagara At Large (April 2026)</a>
+    </h3>
+    <p style="font-size: 0.9em;"><em>Niagara children share realities of homelessness through Brock research</em></p>
+    <p><img src="/images/Img4.png" alt="Niagara At Large Coverage" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" /></p>
+  </div>
+
 </div>
 
 <style>
