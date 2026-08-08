@@ -60,4 +60,13 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<style>
+  /* Changes the entire footer background to charcoal and text to light grey */
+  .page__footer {
+    background-color: #2b2b2b !important;
+    color: #e0e0e0 !important;
+  }
+  .page__footer a {
+    color: #80cbc4 !important;
+  }
+</style>
