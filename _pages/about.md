@@ -14,6 +14,7 @@ Welcome to My Academic Portfolio
 Featured Media & Press Coverage
 ======
 Here is a look at some of the recent media outlets featuring our research on child homelessness and shelter living:
+
 Education News Canada (April 2026)** — Niagara children share realities of homelessness through Brock research
   [![Education News Canada](/IMG.png)](https://educationnewscanada.com/article/your-article-link-1)
 
