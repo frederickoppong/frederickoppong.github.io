@@ -24,14 +24,12 @@ Here is a look at some of the recent media outlets featuring our research on chi
 <p><img src="/images/Img1png.png" alt="St. Catharines Standard Coverage" style="max-width: 100%; border: 1px solid #ccc; border-radius: 4px; margin-top: 10px;" /></p>
 
 
- 
+ <h3 style="color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 4px; margin-top: 30px;">
+  <a href="https://www.cbc.ca/news/canada/hamilton/niagara-children-homelessness-shelter-living-9.7150441" target="_blank" style="color: #00897b; text-decoration: none;">CBC News</a>
+</h3>
+<p><em>New research explores lives of Niagara's unhoused children and shelter living</em></p>
+<p><img src="/images/Img2.png" alt="CBC News Coverage" style="max-width: 100%; border: 1px solid #ccc; border-radius: 4px; margin-top: 10px;" /></p>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
 Getting started
 ======
