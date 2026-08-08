@@ -49,18 +49,20 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
 </div>
 
 <style>
-  /* Horizontal scroll styling for media gallery */
+  /* Horizontal scroll styling with full-width alignment */
   .media-scroll-container {
     display: flex;
     overflow-x: auto;
     gap: 20px;
     padding-bottom: 15px;
     margin-top: 20px;
+    width: 100%;
+    box-sizing: border-box;
     scroll-snap-type: x mandatory;
   }
   .media-card {
     min-width: 320px;
-    max-width: 350px;
+    width: 320px;
     flex: 0 0 auto;
     background: rgba(255, 255, 255, 0.4);
     border: 1px solid #dcd6cd;
