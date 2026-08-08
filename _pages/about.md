@@ -17,7 +17,7 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
 
 Featured Media & Press Coverage
 ======
-Here is a look at some of the recent media outlets featuring our research on child homelessness and shelter living:
+Here is a look at some of the recent media outlets featuring my collaborative research on child homelessness and shelter living:
 
 [[St. Catharines Standard](https://www.stcatharinesstandard.ca/https://www.stcatharinesstandard.ca/news/niagara-region/niagara-brock-unversity-research-child-homelessness/article_00044ee4-64fb-5c0f-ba96-092ad5be3273.html)] (April 2026) — Niagara-Brock University research: ‘Why would I tell anyone where we live?’ New research explores lives of Niagara’s unhoused children [![St. Catharines Standard](/IMG.png)](https://www.stcatharinesstandard.ca/your-article-link-3)
  
