@@ -20,7 +20,7 @@ Frederick Oppong is PhD candidate and multidisciplinary researcher studying how 
 Here is a look at some of the recent media outlets featuring my collaborative research on child homelessness and shelter living:
 
 <h4 style="color: #00897b; border-bottom: 1px solid #00897b; padding-bottom: 2px; margin-top: 25px;">
-  <a href="https://www.stcatharinesstandard.ca" target="_blank" style="color: #00897b; text-decoration: none;">St. Catharines Standard (April 2026)</a>
+  <a href="https://www.stcatharinesstandard.ca/https://www.stcatharinesstandard.ca/news/niagara-region/niagara-brock-unversity-research-child-homelessness/article_00044ee4-64fb-5c0f-ba96-092ad5be3273.html" target="_blank" style="color: #00897b; text-decoration: none;">St. Catharines Standard (April 2026)</a>
 </h4>
 
 [[St. Catharines Standard](https://www.stcatharinesstandard.ca/https://www.stcatharinesstandard.ca/news/niagara-region/niagara-brock-unversity-research-child-homelessness/article_00044ee4-64fb-5c0f-ba96-092ad5be3273.html)] (April 2026) — Niagara-Brock University research: ‘Why would I tell anyone where we live?’ New research explores lives of Niagara’s unhoused children [![St. Catharines Standard](/IMG.png)](https://www.stcatharinesstandard.ca/your-article-link-3)
