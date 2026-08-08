@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="hero-banner">
   <div class="hero-content">
-    <h1 style="color: #1a237e; font-size: 2.5rem; font-weight: 800; margin: 0;">Frederick Oppong, PhD(c), MA, BSc</h1>
+    <h1 style="color: #1a237e; font-size: 2.5rem; font-weight: 800; margin: 0;">WELCOME TO MY ACADEMIC PORTFOLIO</h1>
     <p style="color: #d84315; font-weight: bold; letter-spacing: 1px; margin-top: 5px;">RESEARCHER | ADVOCATE | CHANGE MAKER</p>
     <p style="color: #333; max-width: 500px; font-size: 0.95rem;">Advancing equity and well-being for children and families through research, program evaluation, and social innovation.</p>
   </div>
@@ -24,10 +24,15 @@ redirect_from:
     padding: 40px 30px;
     margin-bottom: 30px;
     border: 1px solid #dcd6cd;
+    width: 100vw;
+    max-width: calc(100vw - 320px);
+    box-sizing: border-box;
+    position: relative;
+    left: 0;
   }
   .hero-content {
-    background: rgba(255, 255, 255, 0.85);
-    padding: 20px;
+    background: rgba(255, 255, 255, 0.55);
+    padding: 25px;
     border-radius: 6px;
     display: inline-block;
   }
