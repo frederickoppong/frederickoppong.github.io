@@ -11,7 +11,7 @@ redirect_from:
   <div class="hero-content">
     <h1 style="color: #1a237e; font-size: 2.2rem; font-weight: 800; margin: 0;">WELCOME TO MY ACADEMIC PORTFOLIO</h1>
     <p style="color: #d84315; font-weight: bold; letter-spacing: 1px; margin-top: 5px;">RESEARCHER | ADVOCATE | CHANGE MAKER</p>
-    <p style="color: #333; max-width: 500px; font-size: 0.95rem; margin-bottom: 0;">Advancing equity and well-being for children and families experiencing homelessness through research, program and pulicy evaluation.</p>
+    <p style="color: #333; max-width: 500px; font-size: 0.95rem; margin-bottom: 0;">AAdvancing equity and well-being for children and families experiencing homelessness through research, program, and policy evaluation.</p>
   </div>
 </div>
 
