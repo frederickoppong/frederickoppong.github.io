@@ -74,3 +74,14 @@ author_profile: true
     scroll-snap-align: start;
   }
 </style>
+
+<style>
+  /* Changes the entire footer background to charcoal and text to light grey */
+  .page__footer {
+    background-color: #2b2b2b !important;
+    color: #e0e0e0 !important;
+  }
+  .page__footer a {
+    color: #80cbc4 !important;
+  }
+</style>
