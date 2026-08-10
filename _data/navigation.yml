@@ -20,6 +20,8 @@ main:
     url: /portfolio/ 
   - title: "CV"
     url: /cv/
+  - title: "Gallery"
+    url: /Gallery/
   # - title: "CV"
 
   #   url: /cv-json/
