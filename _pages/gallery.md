@@ -9,116 +9,116 @@ author_profile: true
 
 <div class="slideshow-container">
 
-  <!-- Slide 1 (Active by default so it never loads blank) -->
+  <!-- Slide 1 -->
   <div class="mySlides fade" style="display: block;">
     <div class="numbertext">1 / 16</div>
-    <img src="/images/873B853E-5CD9-4E5B-BB38-6139B0651B59.jpg" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Research and Community Highlight</div>
+    <img src="/images/IMG_4162.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">Masters Graduation</div>
   </div>
 
   <!-- Slide 2 -->
   <div class="mySlides fade">
     <div class="numbertext">2 / 16</div>
-    <img src="/images/A7303616.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Event Snapshot</div>
+    <img src="/images/CHYSresearch-1.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">Report Launch</div>
   </div>
 
   <!-- Slide 3 -->
   <div class="mySlides fade">
     <div class="numbertext">3 / 16</div>
-    <img src="/images/A7303633.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Research Presentation</div>
+    <img src="/images/A7303616.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">Community Engagement Niagara Region</div>
   </div>
 
   <!-- Slide 4 -->
   <div class="mySlides fade">
     <div class="numbertext">4 / 16</div>
-    <img src="/images/A7303674.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Community Engagement</div>
+    <img src="/images/IMG_3628.jpg" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">Participant Interaction</div>
   </div>
 
   <!-- Slide 5 -->
   <div class="mySlides fade">
     <div class="numbertext">5 / 16</div>
-    <img src="/images/CHYSresearch-1.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">CHYS Research Session</div>
+    <img src="/images/F0F809B5-6D35-4988-8F04-A6B2171686F0.jpg" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">CYP Conference</div>
   </div>
 
   <!-- Slide 6 -->
   <div class="mySlides fade">
     <div class="numbertext">6 / 16</div>
-    <img src="/images/CHYSresearch-4.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">CHYS Research Showcase</div>
+    <img src="/images/IMG_4167.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">Masters Graduation</div>
   </div>
 
   <!-- Slide 7 -->
   <div class="mySlides fade">
     <div class="numbertext">7 / 16</div>
-    <img src="/images/CHYSresearch-8.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">CHYS Team Discussion</div>
+    <img src="/images/CHYSresearch-4.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">Report Launch</div>
   </div>
 
   <!-- Slide 8 -->
   <div class="mySlides fade">
     <div class="numbertext">8 / 16</div>
-    <img src="/images/F0F809B5-6D35-4988-8F04-A6B2171686F0.jpg" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Academic Conference</div>
+    <img src="/images/A7303633.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">Community Engagement Niagara Region</div>
   </div>
 
   <!-- Slide 9 -->
   <div class="mySlides fade">
     <div class="numbertext">9 / 16</div>
-    <img src="/images/IMG_0871.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Project Snapshot</div>
+    <img src="/images/873B853E-5CD9-4E5B-BB38-6139B0651B59.jpg" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">2025 CSA Conference</div>
   </div>
 
   <!-- Slide 10 -->
   <div class="mySlides fade">
     <div class="numbertext">10 / 16</div>
-    <img src="/images/IMG_3628.jpg" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Participant Interaction</div>
+    <img src="/images/IMG_4170.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">Masters Graduation</div>
   </div>
 
   <!-- Slide 11 -->
   <div class="mySlides fade">
     <div class="numbertext">11 / 16</div>
-    <img src="/images/IMG_4162.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Workshop Event</div>
+    <img src="/images/CHYSresearch-8.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">Report Launch</div>
   </div>
 
   <!-- Slide 12 -->
   <div class="mySlides fade">
     <div class="numbertext">12 / 16</div>
-    <img src="/images/IMG_4163.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Group Activity</div>
+    <img src="/images/A7303674.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">Community Engagement Niagara Region</div>
   </div>
 
   <!-- Slide 13 -->
   <div class="mySlides fade">
     <div class="numbertext">13 / 16</div>
-    <img src="/images/IMG_4167.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Panel Discussion</div>
+    <img src="/images/IMG_0871.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">Volunteer of the Year Award</div>
   </div>
 
   <!-- Slide 14 -->
   <div class="mySlides fade">
     <div class="numbertext">14 / 16</div>
-    <img src="/images/IMG_4170.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Seminar Overview</div>
+    <img src="/images/IMG_4163.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
+    <div class="text">Masters Graduation</div>
   </div>
 
   <!-- Slide 15 -->
   <div class="mySlides fade">
     <div class="numbertext">15 / 16</div>
     <img src="/images/img7.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Fieldwork Moment</div>
+    <div class="text">Fieldwork moment</div>
   </div>
 
   <!-- Slide 16 -->
   <div class="mySlides fade">
     <div class="numbertext">16 / 16</div>
     <img src="/images/img8.JPG" alt="Highlight" style="width:100%; border-radius: 8px;">
-    <div class="text">Community Engagement</div>
+    <div class="text">Community Engagement Niagara Region</div>
   </div>
 
   <!-- Next and previous buttons -->
