@@ -138,6 +138,11 @@ author_profile: true
     let container = document.getElementById('slideshow');
     let slideElements = Array.from(container.getElementsByClassName('mySlides'));
     
+    // Show the first slide immediately so it's never blank on load
+    if (slideElements.length > 0) {
+      slideElements[0].style.display = "block";
+    }
+
     // Randomize the order of slides array
     slideElements.sort(() => Math.random() - 0.5);
     
