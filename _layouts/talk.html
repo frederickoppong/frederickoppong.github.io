@@ -1,78 +1,46 @@
 ---
-layout: default
+layout: archive
+title: "Conference and presentations"
+permalink: /talks/
+author_profile: true
 ---
 
-{% include base_path %}
-
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
+{% if site.talkmap_link == true %}
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
-{% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}
+<div class="list__item">
+  <h3 class="archive__item-title" style="margin-top: 1em;">
+    <a href="https://www.youngpeoplestheatre.org/about-ypt/artist-opportunities/children-youth-and-performance-conference/" target="_blank" style="color: #d84315; text-decoration: none;">Belonging through building relationships and creating community in performance-based research with homeless children</a>
+  </h3>
+  <p class="page__meta"><i class="far fa-calendar-alt" aria-hidden="true"></i> July 18, 2026</p>
+  <p class="archive__item-excerpt" style="font-size: 0.9em;">Conference presentation, 2026 Children, Youth, and Performance Conference, Toronto, ON, Canada</p>
+  <p>Family homelessness remains an urgent social issue in Canada, yet children’s experiences of homelessness continue to be underrepresented in homelessness research and public discourse. Drawing on findings from an activity-based research project conducted in partnership with a community organization serving families experiencing homelessness in Southern Ontario, we reflected on how children engaged in creative, performance-based activities to create friendships and support networks, navigate tensions and conflicts, and actively contribute to community-building during periods of uncertainty.</p>
+</div>
 
-<div id="main" role="main">
-  {% include sidebar.html %}
+<div class="list__item">
+  <h3 class="archive__item-title" style="margin-top: 1em;">
+    <a href="https://event.fourwaves.com/2026-csa-scs-annual-conference/abstracts/107309e0-5dd2-44c6-8707-b21ebd4f5aa4" target="_blank" style="color: #d84315; text-decoration: none;">Conducting research with transient, marginalized children in Southern Ontario</a>
+  </h3>
+  <p class="page__meta"><i class="far fa-calendar-alt" aria-hidden="true"></i> June 01, 2026</p>
+  <p class="archive__item-excerpt" style="font-size: 0.9em;">Conference presentation, Canadian Sociological Association 2026 Annual Conference, Dalhousie University, Halifax, NS</p>
+  <p>Within childhood studies, there is a current emphasis on the importance of involving children in research about their lives. This imperative can be challenging for researchers who are seeking to design robust, ethical projects to learn about the lives of marginalized, transient children. In this presentation, we share research strategies which we found to be successful, specifically long-term participant observations and interactions, spontaneous mini-interviews, and interactive arts- and activity- based projects. We also share research challenges we have encountered, including garnering parental consent, children suddenly leaving the shelter, our limited access to information about their lives outside of the after-school program, having little control over changes in the shelter programming for the children, and the dominance of computer gaming in the children’s lives.</p>
+</div>
 
-  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
-    {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
+<div class="list__item">
+  <h3 class="archive__item-title" style="margin-top: 1em;">
+    <a href="https://event.fourwaves.com/csa-scs-conference-2025/abstracts/d839dfda-1c8c-4522-adc9-88615c447d3e" target="_blank" style="color: #d84315; text-decoration: none;">Children’s Experiences of Living in a Homeless Shelter with their Families: Understanding Hardships, Connections, and Capacities</a>
+  </h3>
+  <p class="page__meta"><i class="far fa-calendar-alt" aria-hidden="true"></i> June 01, 2025</p>
+  <p class="archive__item-excerpt" style="font-size: 0.9em;">Conference presentation, Canadian Sociological Association 2025 Annual Conference, Toronto, ON</p>
+  <p>We shared key emerging themes from our ongoing research project into children’s experiences of living in a homeless shelter with their families. We discussed six themes: 1) the challenges connected to hardships experienced by our participants in terms of being homeless and living in a shelter, including shame and loss; 2) the importance of human relationships, especially with family, other children, staff, volunteers, and us, as researchers; 3) the roles of place, neighbourhood and nature in terms of relationality but also support ; 4) the role of pop culture in connecting but also separating the children; 5) their hopes and dreams, especially around housing and how these are connected to action that is needed in these children’s lives.</p>
+</div>
 
-    <div class="page__inner-wrap">
-      {% unless page.header.overlay_color or page.header.overlay_image %}
-        <header>
-          {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-          {% if page.read_time %}
-            <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-          {% endif %}
-        {% if page.modified %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
-        {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
-        {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %}
-
-        </header>
-      {% endunless %}
-
-      <section class="page__content" itemprop="text">
-        {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-      </section>
-
-      <footer class="page__meta">
-        {% if site.data.ui-text[site.locale].meta_label %}
-          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
-        {% endif %}
-        {% include page__taxonomy.html %}
-      </footer>
-
-      {% if page.share %}{% include social-share.html %}{% endif %}
-
-      {% include post_pagination.html %}
-    </div>
-
-    {% if site.comments.provider and page.comments %}
-      {% include comments.html %}
-    {% endif %}
-  </article>
-
-  {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
-  {% if page.id and page.related and site.related_posts.size > 0 %}
-    <div class="page__related">
-      {% if site.data.ui-text[site.locale].related_label %}
-        <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
-      {% endif %}
-      <div class="grid__wrapper">
-        {% for post in site.related_posts limit:4 %}
-          {% include archive-single.html type="grid" %}
-        {% endfor %}
-      </div>
-    </div>
-  {% endif %}
+<div class="list__item">
+  <h3 class="archive__item-title" style="margin-top: 1em;">
+    <a href="https://brocku.ca/social-sciences/symposium-series/shelter-and-displacement/#1734019033898-c98ec749-7075" target="_blank" style="color: #d84315; text-decoration: none;">Amplifying the experiences of children living in a homeless shelter with their families</a>
+  </h3>
+  <p class="page__meta"><i class="far fa-calendar-alt" aria-hidden="true"></i> January 15, 2025</p>
+  <p class="archive__item-excerpt" style="font-size: 0.9em;">Symposium presentation, Shelter and Displacement: From Local to Global — An Interdisciplinary Virtual Symposium, Brock University Social Science Symposium Series, Virtual</p>
+  <p>While little scholarship examines the experiences of homeless children in Canada, we know that there are many challenges faced by them and their families, including precarity, stigma and negative effects on health and education. In collaboration with a community organization dedicated to addressing homelessness, we aim to add to this scant literature by drawing attention to children’s homelessness and amplifying children’s viewpoints. In this presentation we provide an overview of emerging themes, including; 1) the stigma and worry around living in a homeless shelter; 2) the challenges around loss, i.e. children missing toys, pets, and certain family members; 3) the importance of relationships, especially with family, and with children, staff, volunteers, and researchers; 4) their hopes and dreams, especially around housing; and 5) the fun and support in the after-school program.</p>
 </div>
